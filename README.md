@@ -94,7 +94,41 @@ The application was presented and evaluated as a graduation project and achieved
 
 ## Screenshots
 
-Application screenshots will be added here.
+<table>
+  <tr>
+    <td><img src="screenshots/01-login.png" width="480"></td>
+    <td><img src="screenshots/02-register.png" width="480"></td>
+  </tr>
+  <tr>
+    <td><b>Login</b></td>
+    <td><b>Registration</b></td>
+  </tr>
+
+  <tr>
+    <td><img src="screenshots/03-home.png" width="480"></td>
+    <td><img src="screenshots/04-Admin-Panel.png" width="480"></td>
+  </tr>
+  <tr>
+    <td><b>Home</b></td>
+    <td><b>Admin Panel</b></td>
+  </tr>
+
+  <tr>
+    <td><img src="screenshots/05-ProviderHomeScreen.png" width="480"></td>
+    <td><img src="screenshots/06-AddNewService.png" width="480"></td>
+  </tr>
+  <tr>
+    <td><b>Provider Home</b></td>
+    <td><b>Add New Service</b></td>
+  </tr>
+
+  <tr>
+    <td><img src="screenshots/07-SlidePar.png" width="480"></td>
+  </tr>
+  <tr>
+    <td><b>Navigation / Side Panel</b></td>
+  </tr>
+</table>
 
 ## Demo
 
