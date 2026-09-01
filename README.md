@@ -50,9 +50,23 @@ The project was developed and managed using Agile/Scrum practices throughout the
 - Version Control using Git / GitHub
 - Agile / Scrum Development
 
+## Architecture
+
+The application was designed using a structured architecture that separates the presentation layer from the application logic and cloud services.
+
+- Mobile Application
+- Presentation Layer
+- Business Logic / State Management
+- Firebase Services
+- Authentication
+- Cloud Firestore
+- Cloud Storage
+- Firebase Cloud Messaging (FCM)
+- Cloud Functions
+
 ## My Role
 
-I participated directly in the complete software development lifecycle, including:
+I contributed across the full software development lifecycle, including:
 
 - Analyzing system requirements and translating them into application features
 - Designing the application structure and architecture
